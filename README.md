@@ -14,7 +14,7 @@ You can create links between artboards, add external links or show a JavaScript 
  
 ### Responsive Design 
  
-The plugin can handle responsive design, you just need to start your artboards with the same name e.g. `index`, `index tablet`, `index mobile`. When you change the width of your browser it will show a different artboard in the exported website. You can turn this feature off by unchecking `Responsive artboards` in Settings. You may need to update your artboard links after turning this setting on or off. 
+The plugin can handle responsive design, you just need to start your artboards with the same name e.g. index, index tablet, index mobile. When you change the width of your browser it will show a different artboard on the exported website. You can turn this feature off by unchecking Responsive artboards in Settings. You may need to update your artboard links after turning this setting on or off.
  
 <img src="https://cloud.githubusercontent.com/assets/1472553/23585670/f88e9c1c-017b-11e7-98c2-f8d70c6e58fa.png" alt="Responsive artboards">
 
